@@ -12,6 +12,7 @@ function PrintDeveloperbyMap() {
       if (employee.profession === "developer") {
           console.log(employee);
       }
+  });
 }
 
 
